@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nandani6501.github.io/Portfolio-website/](https://nandani6501.github.io/Portfolio-website/)
 
-- 📫 How to reach me **nandani6501@gmail.com**
+- 📫 Reach me **nandani6501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandani6501&show_icons=true&locale=en&layout=compact" alt="nandani6501" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandani6501&show_icons=true&locale=en" alt="nandani6501" /></p>
+<p>&nbsp;<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=nandani6501&show_icons=true&locale=en" alt="nandani6501" /></p>

@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://nandani6501.github.io/Portfolio-website/](https://nandani6501.github.io/Portfolio-website/)
-
 - 📫 Reach me **nandani6501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
